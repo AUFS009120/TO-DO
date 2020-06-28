@@ -19,13 +19,13 @@ ul{
 li{
   height: 40px;
   line-height: 40px;
-  background-color: #fb0091;
-  color : white;
+  background-color: #e8e4e1;
+  color : black;
   padding-left: 10px;
 }
 li:nth-child(2n){
-  background-color: #64c4ed;
-  color: black;
+  background-color: #d92027;
+  color: white;
 }
 
 
