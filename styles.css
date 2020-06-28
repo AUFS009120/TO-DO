@@ -1,5 +1,9 @@
-* {
-  font-family: "montserrat";
+body {
+    background: #ff4b1f;
+    background: -webkit-linear-gradient(to right, #1fddff, #ff4b1f);
+    background: linear-gradient(to right, #1fddff, #ff4b1f);
+    font-family: "montserrat";
+    background-color: #f6f578;
 }
 
 #container {
@@ -49,12 +53,15 @@ input[type='text'] {
   box-sizing: border-box;
   padding: 10px;
   outline: none;
+  background-color: white;
+  border: 3px solid rgba(0, 0, 0, 0);
 }
 
 .fa-pencil {
   float: right;
   margin-right: 20px;
   cursor: pointer;
+  background-color: #000839;
 }
 
 span {
